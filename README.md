@@ -82,6 +82,11 @@
   - 《MySQL是怎样运行的》第4章 从一条记录说起 InnoDB 记录存储结构
   - *多领国*  爬塔至 3-0-0
   - 墨墨背单词 day6
+- [2023-12-13 details](/2023/12m/2023-12-13.md)
+  - 《MySQL是怎样运行的》第5章 盛放记录的大盒子 InnoDB数据页结构
+  - *多领国*  爬塔至  2-3-2
+  - Essential Grammar In Use (Fourth Edition)  Unit 1
+  - 墨墨背单词 day7
 
 
 
