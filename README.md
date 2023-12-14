@@ -88,10 +88,11 @@
   - Essential Grammar In Use (Fourth Edition)  Unit 1
   - 墨墨背单词 day7 
 
-[2023-12-14 details](/2023/12m/2023-12-14.md)
+- [2023-12-14 details](/2023/12m/2023-12-14.md)
 
-- 《MySQL是怎样运行的》第6章 快速查询的秘籍 B+树索引
-- *多领国*  爬塔至  2-3-5
-- Essential Grammar In Use (Fourth Edition)  Unit 2  一般疑问句
-- 墨墨背单词 day8 新学22个单词 
+  - 《MySQL是怎样运行的》第6章 快速查询的秘籍 B+树索引
+  - *多领国*  爬塔至  2-3-5
+  - Essential Grammar In Use (Fourth Edition)  Unit 2  一般疑问句
+  - 墨墨背单词 day8 新学22个单词 
 
+  
