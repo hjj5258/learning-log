@@ -120,6 +120,7 @@
   - Essential Grammar In Use (Fourth Edition)  Unit 5  一般现在时
   - 墨墨背单词 day11 新学23个单词 
 - [2023-12-18 details](/2023/12m/2023-12-18.md)
+  - 《MySQL是怎样运行的》第8章 数据的家 MySQL的数据目录
   - *多领国*  爬塔至  2-4-3
   - Essential Grammar In Use (Fourth Edition)  Unit 6  一般现在时否定形式
   - 墨墨背单词 day12 新学22个单词 
