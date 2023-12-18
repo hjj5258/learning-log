@@ -112,11 +112,14 @@
   - Essential Grammar In Use (Fourth Edition)  Unit 3  一般进行时
   - 墨墨背单词 day9 新学26个单词 
 - [2023-12-16 details](/2023/12m/2023-12-16.md)
-
-  - *多领国*  爬塔至  2-3-9
+- *多领国*  爬塔至  2-3-9
   - Essential Grammar In Use (Fourth Edition)  Unit 4  一般进行时
   - 墨墨背单词 day10 新学9个单词 
 - [2023-12-17 details](/2023/12m/2023-12-17.md)
   - *多领国*  爬塔至  2-4-1
   - Essential Grammar In Use (Fourth Edition)  Unit 5  一般现在时
   - 墨墨背单词 day11 新学23个单词 
+- [2023-12-18 details](/2023/12m/2023-12-18.md)
+  - *多领国*  爬塔至  2-4-3
+  - Essential Grammar In Use (Fourth Edition)  Unit 6  一般现在时否定形式
+  - 墨墨背单词 day12 新学22个单词 
