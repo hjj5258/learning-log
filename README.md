@@ -128,5 +128,9 @@
 - [2023-12-19 details](/2023/12m/2023-12-19.md)
   - *多领国*  爬塔至  2-4-5
   - Essential Grammar In Use (Fourth Edition)  Unit 7  一般现在时疑问句（一般、特殊）
-  - 墨墨背单词 day12 新学6个单词 
+  - 墨墨背单词 day13 新学6个单词 
+- [2023-12-20 details](/2023/12m/2023-12-20.md)
+  - *多领国*  爬塔至  2-4-7
+  - Essential Grammar In Use (Fourth Edition)  Unit 8  一般现在时,现在进行时比较
+  - 墨墨背单词 day14 新学13个单词 
 
