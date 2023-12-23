@@ -124,7 +124,6 @@
   - *多领国*  爬塔至  2-4-3
   - Essential Grammar In Use (Fourth Edition)  Unit 6  一般现在时否定形式
   - 墨墨背单词 day12 新学22个单词 
-
 - [2023-12-19 details](/2023/12m/2023-12-19.md)
   - *多领国*  爬塔至  2-4-5
   - Essential Grammar In Use (Fourth Edition)  Unit 7  一般现在时疑问句（一般、特殊）
@@ -133,4 +132,16 @@
   - *多领国*  爬塔至  2-4-7
   - Essential Grammar In Use (Fourth Edition)  Unit 8  一般现在时,现在进行时比较
   - 墨墨背单词 day14 新学13个单词 
+- [2023-12-21 details](/2023/12m/2023-12-21.md)
+  - *多领国*  爬塔至  2-4-9
+  - Essential Grammar In Use (Fourth Edition)  Unit 9  I hava/has,I haven't/hasn't
+  - 墨墨背单词 day15 新学3个单词 
+- [2023-12-22 details](/2023/12m/2023-12-22.md)
+  - *多领国*  爬塔至  2-4-11
+  - Essential Grammar In Use (Fourth Edition)  Unit 10  was/were 过去时
+  - 墨墨背单词 day16 新学26个单词 
+- [2023-12-23 details](/2023/12m/2023-12-23.md)
+  - *多领国*  爬塔至  2-5-2
+  - Essential Grammar In Use (Fourth Edition)  Unit 11  past simple verbs -ed end or other rule.
+  - 墨墨背单词 day17 复习70，新学0个单词 
 
