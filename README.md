@@ -144,4 +144,16 @@
   - *多领国*  爬塔至  2-5-2
   - Essential Grammar In Use (Fourth Edition)  Unit 11  past simple verbs -ed end or other rule.
   - 墨墨背单词 day17 复习70，新学0个单词 
+- [2023-12-24 details](/2023/12m/2023-12-24.md)
+  - *多领国*  爬塔至  2-5-4
+  - Essential Grammar In Use (Fourth Edition)  Unit 12  past simple 肯定/否定/疑问  do/does -> did + infinitive（原型）
+  - 墨墨背单词 day18 复习70，新学0个单词 
+- [2023-12-25 details](/2023/12m/2023-12-25.md)
+  - *多领国*  爬塔至  2-5-6
+  - Essential Grammar In Use (Fourth Edition)  Unit 13 past continous 过去进行时，was/were + verbs ing
+  - 墨墨背单词 day18 新学9个单词 
+
+
+
+
 
