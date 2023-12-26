@@ -151,7 +151,13 @@
 - [2023-12-25 details](/2023/12m/2023-12-25.md)
   - *多领国*  爬塔至  2-5-6
   - Essential Grammar In Use (Fourth Edition)  Unit 13 past continous 过去进行时，was/were + verbs ing
-  - 墨墨背单词 day18 新学9个单词 
+  - 墨墨背单词 day19 新学9个单词 
+- [2023-12-26 details](/2023/12m/2023-12-26.md)
+  - *多领国*  爬塔至  2-5-8
+  - Essential Grammar In Use (Fourth Edition)  Unit 14 past continous 过去进行时（强调过去正在发生的事情，未完成） and past simple 一般过去时（强调已经发生的事情，已完成）
+  - 墨墨背单词 day20 新学23个单词 
+
+
 
 
 
