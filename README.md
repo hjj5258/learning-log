@@ -156,6 +156,10 @@
   - *多领国*  爬塔至  2-5-8
   - Essential Grammar In Use (Fourth Edition)  Unit 14 past continous 过去进行时（强调过去正在发生的事情，未完成） and past simple 一般过去时（强调已经发生的事情，已完成）
   - 墨墨背单词 day20 新学23个单词 
+- [2023-12-27 details](/2023/12m/2023-12-27.md)
+  - *多领国*  爬塔至  2-6-1
+  - Essential Grammar In Use (Fourth Edition)  Unit 15 past perfect 过去完成时，一个动作在过去对现在产生结果  have/has + verbs pp. (过去分词)
+  - 墨墨背单词 day21 新学4个单词 
 
 
 
