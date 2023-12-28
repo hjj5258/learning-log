@@ -160,6 +160,10 @@
   - *多领国*  爬塔至  2-6-1
   - Essential Grammar In Use (Fourth Edition)  Unit 15 past perfect 过去完成时，一个动作在过去对现在产生结果  have/has + verbs pp. (过去分词)
   - 墨墨背单词 day21 新学4个单词 
+- [2023-12-28 details](/2023/12m/2023-12-28.md)
+  - *多领国*  爬塔至  2-6-3
+  - Essential Grammar In Use (Fourth Edition)  Unit 16 past perfect 过去完成时，I've just（刚刚);I've already(已经)；I've...yet(直到现在);Have you ....yet(直到现在？)
+  - 墨墨背单词 day22 新学8个单词 
 
 
 
