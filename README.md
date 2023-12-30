@@ -164,6 +164,14 @@
   - *多领国*  爬塔至  2-6-3
   - Essential Grammar In Use (Fourth Edition)  Unit 16 past perfect 过去完成时，I've just（刚刚);I've already(已经)；I've...yet(直到现在);Have you ....yet(直到现在？)
   - 墨墨背单词 day22 新学8个单词 
+- [2023-12-29 details](/2023/12m/2023-12-29.md)
+  - *多领国*  爬塔至  2-6-5
+  - Essential Grammar In Use (Fourth Edition)  Unit 17 past perfect 过去完成时，Have you ever.....(你任何.....，指过去到现在),been(强调已经去过这件事情) or gone(强调去这个动作)
+  - 墨墨背单词 day23 新学11个单词 
+- [2023-12-30 details](/2023/12m/2023-12-30.md)
+  - *多领国*  爬塔至  2-6-7
+  - TODO Essential Grammar In Use (Fourth Edition)  Unit 18
+  - TODO 墨墨背单词 day25 
 
 
 
