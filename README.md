@@ -172,14 +172,18 @@
   - *多领国*  爬塔至  2-6-7
   - TODO Essential Grammar In Use (Fourth Edition)  Unit 18 past perfect 过去完成时，How long have you(你有多久....),past perfect continuous(have been + ing)现在完成进行时
   - TODO 墨墨背单词 day24 新学3
-
 - [2023-12-31 details](/2023/12m/2023-12-31.md)
-
-  - *多领国*  爬塔至  2-6-8
+- *多领国*  爬塔至  2-6-8
   - for (一段时间) ,since（自从xxxx开始，某一个时间点），ago之前
   - TODO 墨墨背单词 day25 新学3
 
-  
+#### 2024年
+
+- [2024-01-01 details](/2024/01m/2024-01-01.md)
+  - 新概念第二册 Pre unit 1 test
+- [2024-01-02 details](/2024/01m/2024-01-02.md)
+  - *多领国*  爬塔至  2-6-9
+  - 新概念第二册 Lesson 1 A private conversation    
 
 
 
