@@ -175,7 +175,7 @@
 - [2023-12-31 details](/2023/12m/2023-12-31.md)
 - *多领国*  爬塔至  2-6-8
   - for (一段时间) ,since（自从xxxx开始，某一个时间点），ago之前
-  - TODO 墨墨背单词 day25 新学3
+  - 墨墨背单词 day25 新学3
 
 #### 2024年
 
@@ -185,5 +185,7 @@
   - *多领国*  爬塔至  2-6-9
   - 新概念第二册 Lesson 1 A private conversation    
 
-
+- [2024-01-03 details](/2024/01m/2024-01-03.md)
+  - 墨墨背单词 day26 复习70
+  - 新概念第二册  Lesson 2 Breakfast or lunch
 
