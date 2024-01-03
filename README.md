@@ -170,11 +170,11 @@
   - 墨墨背单词 day23 新学11个单词 
 - [2023-12-30 details](/2023/12m/2023-12-30.md)
   - *多领国*  爬塔至  2-6-7
-  - TODO Essential Grammar In Use (Fourth Edition)  Unit 18 past perfect 过去完成时，How long have you(你有多久....),past perfect continuous(have been + ing)现在完成进行时
+  - Essential Grammar In Use (Fourth Edition)  Unit 18 past perfect 过去完成时，How long have you(你有多久....),past perfect continuous(have been + ing)现在完成进行时
   - TODO 墨墨背单词 day24 新学3
 - [2023-12-31 details](/2023/12m/2023-12-31.md)
-- *多领国*  爬塔至  2-6-8
-  - for (一段时间) ,since（自从xxxx开始，某一个时间点），ago之前
+  - 多领国  爬塔至  2-6-8
+  - Essential Grammar In Use (Fourth Edition)  Unit 19 for (一段时间) ,since（自从xxxx开始，某一个时间点），ago之前
   - 墨墨背单词 day25 新学3
 
 #### 2024年
