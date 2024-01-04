@@ -184,8 +184,10 @@
 - [2024-01-02 details](/2024/01m/2024-01-02.md)
   - *多领国*  爬塔至  2-6-9
   - 新概念第二册 Lesson 1 A private conversation    
-
 - [2024-01-03 details](/2024/01m/2024-01-03.md)
   - 墨墨背单词 day26 复习70
   - 新概念第二册  Lesson 2 Breakfast or lunch
+- [2024-01-04 details](/2024/01m/2024-01-04.md)
+  - 墨墨背单词 day27 复习80
+  - 新概念第二册  Lesson 3 Please send me a card ，一般过去式，主谓双宾
 
