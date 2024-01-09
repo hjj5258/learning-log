@@ -192,7 +192,7 @@
   - 新概念第二册  Lesson 3 Please send me a card ，一般过去式，主谓双宾
 - [2024-01-08 details](/2024/01m/2024-01-08.md)
   - 墨墨背单词 day28 复习80
-  - 新概念第二册  Lesson 3 Please send me a card ，一般过去式，主谓双宾
+  - *多领国*  爬塔至  2-7-1
 - [2024-01-09 details](/2024/01m/2024-01-09.md)
   - 墨墨背单词 day29 TODO
   - 新概念第二册  Lesson 4 An exciting trip，现在完成时 hava/has + done(v.过去分词)，同位语（对前面的进行补充说明）
